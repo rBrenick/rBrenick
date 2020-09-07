@@ -1,6 +1,9 @@
 ### Hello There
 
+I made this whole readme just so I can have a link to my gists.
 gists: https://gist.github.com/rBrenick
+
+tada.
 
 <!--
 **rBrenick/rBrenick** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
