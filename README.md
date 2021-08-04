@@ -1,6 +1,6 @@
 ### Hello There
 
-I made this whole readme just so I can have a link to my gists.
+I made a whole readme so I can have a link to my gists.
 
 gists: https://gist.github.com/rBrenick
 
