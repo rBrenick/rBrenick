@@ -2,7 +2,7 @@
 
 I made a whole readme so I can have a link to my gists.
 
-gists: https://gist.github.com/rBrenick
+https://gist.github.com/rBrenick
 
 tada.
 
