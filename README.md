@@ -25,6 +25,7 @@ Gists: https://gist.github.com/rBrenick
         <p>Split up mocap, then apply poses with adjustment blending.</p>
         <p>Designed for easy integration into other studio pipelines.</p>
         <a href="https://github.com/rBrenick/mocap-clipper/stargazers"><img alt="GitHub stars" src="https://img.shields.io/github/stars/rBrenick/mocap-clipper"></a>
+        <a href="https://github.com/rBrenick/mocap-clipper/watchers"><img alt="GitHub watchers" src="https://img.shields.io/github/watchers/rBrenick/mocap-clipper"></a>
         <a href="https://github.com/rBrenick/mocap-clipper/network"><img alt="GitHub forks" src="https://img.shields.io/github/forks/rBrenick/mocap-clipper"></a>
       </td>
     </tr>
@@ -36,6 +37,7 @@ Gists: https://gist.github.com/rBrenick
         <h2><a href="https://github.com/rBrenick/json-editor">JSON Editor</a></h2>
         <p>Visual JSON Editor written in Qt.</p>
         <a href="https://github.com/rBrenick/json-editor/stargazers"><img alt="GitHub stars" src="https://img.shields.io/github/stars/rBrenick/json-editor"></a>
+        <a href="https://github.com/rBrenick/json-editor/watchers"><img alt="GitHub watchers" src="https://img.shields.io/github/watchers/rBrenick/json-editor"></a>
         <a href="https://github.com/rBrenick/json-editor/network"><img alt="GitHub forks" src="https://img.shields.io/github/forks/rBrenick/json-editor"></a>
       </td>
     </tr>
@@ -49,6 +51,7 @@ Gists: https://gist.github.com/rBrenick
         <p>Written to be docked next to a script editor.</p>
         <p>I have no idea how people use Maya without something like this.</p>
         <a href="https://github.com/rBrenick/script-panel/stargazers"><img alt="GitHub stars" src="https://img.shields.io/github/stars/rBrenick/script-panel"></a>
+        <a href="https://github.com/rBrenick/script-panel/watchers"><img alt="GitHub watchers" src="https://img.shields.io/github/watchers/rBrenick/script-panel"></a>
         <a href="https://github.com/rBrenick/script-panel/network"><img alt="GitHub forks" src="https://img.shields.io/github/forks/rBrenick/script-panel"></a>
       </td>
     </tr>
@@ -62,6 +65,7 @@ Gists: https://gist.github.com/rBrenick
         <p>(Because nobody ever looks at the script editor output log)</p>
         <p>Extension system for adding custom actions like creating JIRAs and sending messages on Slack.</p>
         <a href="https://github.com/rBrenick/exception-dialog/stargazers"><img alt="GitHub stars" src="https://img.shields.io/github/stars/rBrenick/exception-dialog"></a>
+        <a href="https://github.com/rBrenick/exception-dialog/watchers"><img alt="GitHub watchers" src="https://img.shields.io/github/watchers/rBrenick/exception-dialog"></a>
         <a href="https://github.com/rBrenick/exception-dialog/network"><img alt="GitHub forks" src="https://img.shields.io/github/forks/rBrenick/exception-dialog"></a>
       </td>
     </tr>
@@ -73,6 +77,7 @@ Gists: https://gist.github.com/rBrenick
         <h2><a href="https://github.com/rBrenick/live-script-editor">Live Script Editor</a></h2>
         <p>Maya-like standalone python script editor.</p>
         <a href="https://github.com/rBrenick/live-script-editor/stargazers"><img alt="GitHub stars" src="https://img.shields.io/github/stars/rBrenick/live-script-editor"></a>
+        <a href="https://github.com/rBrenick/live-script-editor/watchers"><img alt="GitHub watchers" src="https://img.shields.io/github/watchers/rBrenick/live-script-editor"></a>
         <a href="https://github.com/rBrenick/live-script-editor/network"><img alt="GitHub forks" src="https://img.shields.io/github/forks/rBrenick/live-script-editor"></a>
       </td>
     </tr>
@@ -84,6 +89,7 @@ Gists: https://gist.github.com/rBrenick
         <h2><a href="https://github.com/rBrenick/argument-dialog">Argument Dialog</a></h2>
         <p>Automatically generate Qt dialog from the arguments of a python function.</p>
         <a href="https://github.com/rBrenick/argument-dialog/stargazers"><img alt="GitHub stars" src="https://img.shields.io/github/stars/rBrenick/argument-dialog"></a>
+        <a href="https://github.com/rBrenick/argument-dialog/watchers"><img alt="GitHub watchers" src="https://img.shields.io/github/watchers/rBrenick/argument-dialog"></a>
         <a href="https://github.com/rBrenick/argument-dialog/network"><img alt="GitHub forks" src="https://img.shields.io/github/forks/rBrenick/argument-dialog"></a>
       </td>
     </tr>
@@ -96,6 +102,7 @@ Gists: https://gist.github.com/rBrenick
         <p>Personal collection of Maya scripts and hotkeys</p>
         <p>When I setup on a new machine I download this repo and install the hotkeys from <a href="https://github.com/rBrenick/b-tools/blob/master/b_tools/utilities/hotkeys.py">this file.</a></p>
         <a href="https://github.com/rBrenick/b-tools/stargazers"><img alt="GitHub stars" src="https://img.shields.io/github/stars/rBrenick/b-tools"></a>
+        <a href="https://github.com/rBrenick/b-tools/watchers"><img alt="GitHub watchers" src="https://img.shields.io/github/watchers/rBrenick/b-tools"></a>
         <a href="https://github.com/rBrenick/b-tools/network"><img alt="GitHub forks" src="https://img.shields.io/github/forks/rBrenick/b-tools"></a>
       </td>
     </tr>
@@ -107,6 +114,7 @@ Gists: https://gist.github.com/rBrenick
         <h2><a href="https://github.com/rBrenick/dcc-venv">DCC-venv </a></h2>
         <p>Python Virtual Environment setup for a bunch of DCCs (Maya, MotionBuilder, Blender)</p>
         <a href="https://github.com/rBrenick/dcc-venv/stargazers"><img alt="GitHub stars" src="https://img.shields.io/github/stars/rBrenick/dcc-venv"></a>
+        <a href="https://github.com/rBrenick/dcc-venv/watchers"><img alt="GitHub watchers" src="https://img.shields.io/github/watchers/rBrenick/dcc-venv"></a>
         <a href="https://github.com/rBrenick/dcc-venv/network"><img alt="GitHub forks" src="https://img.shields.io/github/forks/rBrenick/dcc-venv"></a>
       </td>
     </tr>
