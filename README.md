@@ -30,7 +30,7 @@ Gists: https://gist.github.com/rBrenick
     </tr>
     <tr>
       <td>
-        <a href="https://github.com/rBrenick/json-editor"><img src="https://raw.githubusercontent.com/rBrenick/JSON-Editor/master/docs/example_image.PNG" alt="Thumbnail" width="200px"></a>
+        <a href="https://github.com/rBrenick/json-editor"><img src="https://github.com/rBrenick/json-editor/raw/master/docs/header_image.png" alt="Thumbnail" width="200px"></a>
       </td>
       <td>
         <h2><a href="https://github.com/rBrenick/json-editor">JSON Editor</a></h2>
