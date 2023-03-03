@@ -59,6 +59,19 @@ tada.
     </tr>
     <tr>
       <td>
+        <a href="https://github.com/rBrenick/skinning-suite"><img src="https://github.com/rBrenick/skinning-suite/blob/main/docs/header_image.png" alt="Thumbnail" width="200px"></a>
+      </td>
+      <td>
+        <h2><a href="https://github.com/rBrenick/skinning-suite">Skinning Suite</a></h2>
+        <p>Blender Addon for skinning workflows</p>
+        <p>Simple thing that I found myself wanting when painting weights.</p>
+        <a href="https://github.com/rBrenick/skinning-suite/stargazers"><img alt="GitHub stars" src="https://img.shields.io/github/stars/rBrenick/skinning-suite"></a>
+        <a href="https://github.com/rBrenick/skinning-suite/watchers"><img alt="GitHub watchers" src="https://img.shields.io/github/watchers/rBrenick/skinning-suite"></a>
+        <a href="https://github.com/rBrenick/skinning-suite/network"><img alt="GitHub forks" src="https://img.shields.io/github/forks/rBrenick/skinning-suite"></a>
+      </td>
+    </tr>
+   <tr>
+      <td>
         <a href="https://github.com/rBrenick/exception-dialog"><img src="https://github.com/rBrenick/exception-dialog/blob/main/docs/header_image.png" alt="Thumbnail" width="200px"></a>
       </td>
       <td>
