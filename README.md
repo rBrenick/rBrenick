@@ -43,6 +43,18 @@ tada.
         <a href="https://github.com/rBrenick/json-editor/network"><img alt="GitHub forks" src="https://img.shields.io/github/forks/rBrenick/json-editor"></a>
       </td>
     </tr>
+        <tr>
+      <td>
+        <a href="https://github.com/rBrenick/open-maya-file-in-blender"><img src="https://github.com/rBrenick/open-maya-file-in-blender/blob/main/docs/header_image.png" alt="Thumbnail" width="200px"></a>
+      </td>
+      <td>
+        <h2><a href="https://github.com/rBrenick/open-maya-file-in-blender">Open Maya file in Blender</a></h2>
+        <p>Import geometry from a MayaASCII file directly into Blender.</p>
+        <a href="https://github.com/rBrenick/open-maya-file-in-blender/stargazers"><img alt="GitHub stars" src="https://img.shields.io/github/stars/rBrenick/open-maya-file-in-blender"></a>
+        <a href="https://github.com/rBrenick/open-maya-file-in-blender/watchers"><img alt="GitHub watchers" src="https://img.shields.io/github/watchers/rBrenick/open-maya-file-in-blender"></a>
+        <a href="https://github.com/rBrenick/open-maya-file-in-blender/network"><img alt="GitHub forks" src="https://img.shields.io/github/forks/rBrenick/open-maya-file-in-blender"></a>
+      </td>
+    </tr>
     <tr>
       <td>
         <a href="https://github.com/rBrenick/script-panel"><img src="https://github.com/rBrenick/script-panel/blob/main/docs/header_image.png" alt="Thumbnail" width="200px"></a>
