@@ -57,6 +57,18 @@ tada.
     </tr>
     <tr>
       <td>
+        <a href="https://github.com/rBrenick/skinning-suite"><img src="https://github.com/rBrenick/skinning-suite/blob/main/docs/header_image.png" alt="Thumbnail" width="200px"></a>
+      </td>
+      <td>
+        <h2><a href="https://github.com/rBrenick/skinning-suite">Skinning Suite</a></h2>
+        <p>Blender Addon for skinning workflows.</p>
+        <a href="https://github.com/rBrenick/skinning-suite/stargazers"><img alt="GitHub stars" src="https://img.shields.io/github/stars/rBrenick/skinning-suite"></a>
+        <a href="https://github.com/rBrenick/skinning-suite/watchers"><img alt="GitHub watchers" src="https://img.shields.io/github/watchers/rBrenick/skinning-suite"></a>
+        <a href="https://github.com/rBrenick/skinning-suite/network"><img alt="GitHub forks" src="https://img.shields.io/github/forks/rBrenick/skinning-suite"></a>
+      </td>
+    </tr>
+    <tr>
+      <td>
         <a href="https://github.com/rBrenick/script-panel"><img src="https://github.com/rBrenick/script-panel/blob/main/docs/header_image.png" alt="Thumbnail" width="200px"></a>
       </td>
       <td>
@@ -67,18 +79,6 @@ tada.
         <a href="https://github.com/rBrenick/script-panel/stargazers"><img alt="GitHub stars" src="https://img.shields.io/github/stars/rBrenick/script-panel"></a>
         <a href="https://github.com/rBrenick/script-panel/watchers"><img alt="GitHub watchers" src="https://img.shields.io/github/watchers/rBrenick/script-panel"></a>
         <a href="https://github.com/rBrenick/script-panel/network"><img alt="GitHub forks" src="https://img.shields.io/github/forks/rBrenick/script-panel"></a>
-      </td>
-    </tr>
-    <tr>
-      <td>
-        <a href="https://github.com/rBrenick/skinning-suite"><img src="https://github.com/rBrenick/skinning-suite/blob/main/docs/header_image.png" alt="Thumbnail" width="200px"></a>
-      </td>
-      <td>
-        <h2><a href="https://github.com/rBrenick/skinning-suite">Skinning Suite</a></h2>
-        <p>Blender Addon for skinning workflows.</p>
-        <a href="https://github.com/rBrenick/skinning-suite/stargazers"><img alt="GitHub stars" src="https://img.shields.io/github/stars/rBrenick/skinning-suite"></a>
-        <a href="https://github.com/rBrenick/skinning-suite/watchers"><img alt="GitHub watchers" src="https://img.shields.io/github/watchers/rBrenick/skinning-suite"></a>
-        <a href="https://github.com/rBrenick/skinning-suite/network"><img alt="GitHub forks" src="https://img.shields.io/github/forks/rBrenick/skinning-suite"></a>
       </td>
     </tr>
    <tr>
