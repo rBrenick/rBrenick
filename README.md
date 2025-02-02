@@ -81,6 +81,19 @@ tada.
         <a href="https://github.com/rBrenick/script-panel/network"><img alt="GitHub forks" src="https://img.shields.io/github/forks/rBrenick/script-panel"></a>
       </td>
     </tr>
+       <tr>
+      <td>
+        <a href="https://github.com/rBrenick/script-panel-blender"><img src="https://github.com/rBrenick/script-panel-blender/blob/master/docs/header_image.png" alt="Thumbnail" width="200px"></a>
+      </td>
+      <td>
+        <h2><a href="https://github.com/rBrenick/script-panel-blender">Script Panel for Blender</a></h2>
+        <p>File tree / PureRef for scripts.</p>
+        <p>Rewrite of <a href="https://github.com/rBrenick/script-panel">Script Panel</a> for Blenders' UI system.</p>
+        <a href="https://github.com/rBrenick/script-panel-blender/stargazers"><img alt="GitHub stars" src="https://img.shields.io/github/stars/rBrenick/script-panel-blender"></a>
+        <a href="https://github.com/rBrenick/script-panel-blender/watchers"><img alt="GitHub watchers" src="https://img.shields.io/github/watchers/rBrenick/script-panel-blender"></a>
+        <a href="https://github.com/rBrenick/script-panel-blender/network"><img alt="GitHub forks" src="https://img.shields.io/github/forks/rBrenick/script-panel-blender"></a>
+      </td>
+    </tr>
    <tr>
       <td>
         <a href="https://github.com/rBrenick/exception-dialog"><img src="https://github.com/rBrenick/exception-dialog/blob/main/docs/header_image.png" alt="Thumbnail" width="200px"></a>
